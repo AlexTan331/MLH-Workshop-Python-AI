@@ -25,5 +25,7 @@ six==1.12.0
 soupsieve==1.7.2
 tweepy==3.7.0
 Unidecode==1.0.23
-urllib3==1.24.2
-Werkzeug==0.14.1
+dependabot/pip/werkzeug-0.15.3
+urllib3==1.24.1
+Werkzeug==0.15.3
+
